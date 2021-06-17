@@ -27,10 +27,15 @@ Deep Learning 기반의 얼굴인식을 적용한 도어락 제어 및 출석 �
 
 ### 2.2 프로젝트 결과물
 [안드로이드 APP- 얼굴인식 공통 기능]
+
 ![image](https://user-images.githubusercontent.com/86017069/122480737-59cf3680-d008-11eb-918e-470968faad09.png)
+
 [안드로이드 APP- 출석부]
+
 ![image](https://user-images.githubusercontent.com/86017069/122480754-63f13500-d008-11eb-9b24-db6c6ead12e7.png)
+
 [안드로이드 APP- 도어락]
+
 ![image](https://user-images.githubusercontent.com/86017069/122480761-694e7f80-d008-11eb-8801-e41ea1acf9c5.png)
 
 
